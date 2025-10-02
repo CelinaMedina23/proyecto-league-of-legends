@@ -84,3 +84,7 @@ nav ul {
   list-style: none;
  
 }
+
+.link:hover {
+  color: #150948;
+}
