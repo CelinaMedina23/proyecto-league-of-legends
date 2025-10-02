@@ -75,3 +75,12 @@ div {
   font-weight: bold;
 }
 
+.link{
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+nav ul {
+  list-style: none;
+ 
+}
