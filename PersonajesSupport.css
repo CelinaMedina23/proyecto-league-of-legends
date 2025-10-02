@@ -1,9 +1,10 @@
 .tarjeta {
- background-image: url(https://www.esportmaniacos.com/wp-content/uploads/2021/01/portada-pathing-jungla-lol-1.jpg);
+ background-image: url(https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/a2a1ab1b346d205ffda05d3080643690ea386431-1287x851.jpg);
   color: antiquewhite;
   text-align: center;
   border: 4px solid white;
   padding: 10px 10px;
+  background-size: cover;
 }
 
 img{

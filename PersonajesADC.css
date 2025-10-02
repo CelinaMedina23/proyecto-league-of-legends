@@ -1,0 +1,12 @@
+.tarjeta {
+ background-image: url(https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/65b9fd41ef357789b971e1a8eaeda70c25926953-1164x600.png);
+  color: antiquewhite;
+  text-align: center;
+  border: 4px solid white;
+  padding: 10px 10px;
+  background-size:cover;
+}
+
+img{
+  height: 10vh;
+}
