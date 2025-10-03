@@ -8,6 +8,7 @@ body{
   text-transform: capitalize;
 }
 
+
 /* ------------------------- seccion titles, parrafo y list of champions ------------------------------*/
 
 
@@ -82,8 +83,9 @@ div {
 /* ------------------------------------ seccion nav y logo -------------------------------------*/
 
 .header-img{
-  height: 450px;
+  height: 400px; 
 }
+
 
 
 
@@ -174,4 +176,25 @@ nav ul {
   color: #eba346;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: bold;
+}
+
+@media (max-width: 480px) {
+
+  header{ 
+    background-color: #5e50f4;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  header ul{
+    flex-direction: column;
+  }
+
+  ul a {
+    display: block;
+    text-align: center;
+  }
+
+  
+
 }
